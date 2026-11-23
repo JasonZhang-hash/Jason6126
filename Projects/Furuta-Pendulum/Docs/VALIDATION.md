@@ -11,4 +11,4 @@ Smoke checks passed; this is not proof of successful swing-up or hardware stabil
 
 ```
 
-退出码：0。只验证语法和所列无界面入口，不表示所有历史脚本可运行，也不表示起摆或硬件闭环成功。复制源码已按FILE_MANIFEST中的SHA256核对。未执行长时间搜索、GUI和固件构建/烧录。
+退出码：0。只验证语法和所列无界面入口，不表示所有历史脚本可运行，也不表示起摆或硬件闭环成功。源码发布文本已按 FILE_MANIFEST 的 sha256 核对，原文件字节哈希另列 source_sha256。未执行长时间搜索、GUI和固件构建/烧录。
