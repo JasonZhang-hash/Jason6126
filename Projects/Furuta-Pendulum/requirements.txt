@@ -1,0 +1,2 @@
+# Optional numerical dependency used by historical headless_diag.py
+numpy
