@@ -1,8 +1,0 @@
-__pycache__/
-*.py[cod]
-.venv/
-.idea/
-*.elf
-*.hex
-*.exe
-.env
